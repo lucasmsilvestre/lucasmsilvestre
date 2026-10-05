@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Lucas
-- 👀 I’m interested in new techs, like IA/LLM and some Quantum computing.
+- 👀 I’m interested in new techs, like IA/LLM and Quantum computing.
 - 🌱 I’m currently working with IA and creating new solutions.
 - 💞️ I’m looking to collaborate on AI.
 - 📫 How to reach me: lucasmsilvestre1@gmail.com
